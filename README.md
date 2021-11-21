@@ -2,9 +2,9 @@
 
 These are some Notes for python(updating)
 
-[class&object](https://github.com/Colin1245/Python-Specialization/tree/main/class%26object)(https://github.com/Colin1245/Python-Specialization/commit/dbd0654bc0452cc5231427b66c07306d8f498adf)
+[class&object](https://github.com/Colin1245/Python-Specialization/tree/main/class%26object)
 
-[data_structure](https://github.com/Colin1245/Python-Specialization/tree/main/data_structure)(https://github.com/Colin1245/Python-Specialization/commit/dbd0654bc0452cc5231427b66c07306d8f498adf)
+[data_structure](https://github.com/Colin1245/Python-Specialization/tree/main/data_structure)
 
 [intermediate_py](https://github.com/Colin1245/Python-Specialization/tree/main/intermediate_py)
 
