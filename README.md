@@ -13,3 +13,6 @@ These are some Notes for python(updating)
 [socket](https://github.com/Colin1245/Python-Specialization/tree/main/socket)
 
 [expert_py](https://github.com/Colin1245/Python-Notes/tree/expert_py/expert_py)
+
+[pygame](https://github.com/Colin1245/Python-Notes/tree/expert_py/pygame)
+
